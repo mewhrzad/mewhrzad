@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Python+developer;who+loves+open+source+projects)](https://git.io/typing-svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mewhrzad&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
